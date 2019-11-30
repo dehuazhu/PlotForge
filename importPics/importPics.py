@@ -11,11 +11,7 @@
 # classes and functions
 
 # import .tif
-def addNumbers(a, b):
-    return a+b
-def world(): 
-    print("hi")
+def imageNameParser(imputPath):
+    return True
 
-def printHello():
-    print('hello')
 # main function for testing
