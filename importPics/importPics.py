@@ -27,4 +27,7 @@ def readPics(base_dir, rel_dir):
         if fileName.endswith("B08.tiff"):
             zipF.extract(fileName, "B08")
 
+def whatDoesntWork()
+    print("The import of the package works.")
+
 # main function for testing
